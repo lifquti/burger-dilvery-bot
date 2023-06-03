@@ -24,6 +24,14 @@ async def process_start(message: Message, state: FSMContext):
                                reply_markup=markups.user.main.main_menu_with_phone())
         return
 
+
+
+
+    SDGFSDG
+
+    SD
+    F
+
     await bot.send_message(message.from_user.id,
                            text='Вітаємо вас в чат-боті нашої бургерної!🎉'
                                 'Для початку роботи з чат-ботом, вам необхідно поділитись номером телефону.'
