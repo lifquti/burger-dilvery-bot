@@ -20,3 +20,4 @@ def sync_create_con():
     con = sync_connect(**MYSQL)
     cur = con.cursor()
     return con, cur
+
